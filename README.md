@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and helping local hispanic owned business make an online presence.
+- 🤔 &nbsp; Exploring new technologies and sharpening my skills that I learned from my Coding bootcamp.
 - 🎓 &nbsp; Studying Computer Science & Gerneral Studies at Dalton State College.
 
 
