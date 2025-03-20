@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and sharpening my skills that I learned from my Coding bootcamp.
-- 🎓 &nbsp; Studying Computer Science & Gerneral Studies at Dalton State College.
+- 🎓 &nbsp; Studying Computer Science at The University of Georgia.
 
 
 <br>
